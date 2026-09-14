@@ -1,0 +1,9 @@
+{
+  "name": "eCitizen Digital",
+  "short_name": "eCitizen",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020706",
+  "theme_color": "#020706",
+  "description": "Kishoreganj-focused Website, Branding & Digital Marketing."
+}
